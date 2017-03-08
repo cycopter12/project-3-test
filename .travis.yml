@@ -1,7 +1,8 @@
 language: ruby
 rvm:
-  - ruby-head
+- ruby-head
 deploy:
-  provider:heroku
-  app:
-    api_key:
+  provider: heroku
+  app: peaceful-spire-66180
+  api_key:
+    secure: Nc+woncCEMajGRNJ+BwGzld6L6sudycBBzQlZUeMwOMytiBc5TpKXyjRTj6Y9FunE26E/iog/4rzZos8DCR/h9HgKDZH3Qe3/2ibORNThT2XWXiI9pC/4r8p34EXeQ63rWXlFuksuBc2lNXS3IzRlA9jWDItVp/jG0K5WZPSR0Aei5ku2TxSNPXEM+zrN9PJvKyBfLHAENdQvD69a7d9htlTLpT9wWpHMg21ttM1AxtSLf2Znre8yFlv7OLXJyakCT6KLWZbeqVYPAg0h6TUQjTNm4MNvD1xn+M+4U5wAdvORmJ/Ul5xc1ix2bmEHsRnxqoXaoQnr0t4dBDyu3vBmpt4Esv7RDulDvr2py1cEcM8q+WndbujWfbcO9KwY9LNKedjL6HRJZcJZnYFIfGj/U1cyxoV7pRT7vDY444UaINCHk8w1guW8uccsrVkwN3BszDmjmVI49PG4VZcT9X9UXUA7zqp0A+xy3Zgj/qGUHQkuC1xJen9GkjOKTXneB5o14eIbOF4UR5NG0QymqciaGQlOOBdBcLdSxRTBXSEkcrmt+2a71wG/TIs8VyINy9lA2JDhgTWIGUbJHtaBCD/bHhn5VRBrFoKPGTxKN8g/811ZK9UXrV3SwzgSGVZ9ZWrHzQVFKZh0lyJccX64wRlk/3wdYO6+ZlTZVXjNWLswRg=
