@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - ruby-head
+deploy:
+  provider:heroku
+  app:
+    api_key:
